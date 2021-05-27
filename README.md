@@ -8,7 +8,7 @@
 **:man: Helping 2000W+ users access the global network!**
 
 ---
-### 点击右上角在浏览器打开下载
+### Recommended download in your browser
 #### :arrow_double_down: [iOS Appstore](https://appshare.onelink.me/7uiT/33e7470c)
 #### :arrow_double_down: [Android.APK](https://appshare.onelink.me/7uiT/fa80bb40)
 #### :arrow_double_down: [Windows.exe](https://appshare.onelink.me/7uiT/cd934bda)
