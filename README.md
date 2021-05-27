@@ -16,7 +16,7 @@
 #### :arrow_double_down: [iOS 内测版本(中国区用户专用)](https://appshare.onelink.me/7uiT/1c9f9287)
 #### :arrow_double_down: [Official Website](https://appshare.onelink.me/7uiT/a60e7e13)
 ---
-### 免费福利
+### Free Gift
 **:gift: Download LetsVPN Get Free Membership!**
 
 **:gift: Fill in your friend ID Get extra memberships!**
